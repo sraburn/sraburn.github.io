@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Samuel Raburn"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a 5th year Ph.D. Candidate "
   location         : "Davis, CA"
-  employer         : "University of California - Davis"
+  employer         : "University of California, Davis"
   uri              : # URL
   email            : "sraburn@ucdavis.edu" 
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/samraburn/"
+  linkedin         : "samraburn"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
