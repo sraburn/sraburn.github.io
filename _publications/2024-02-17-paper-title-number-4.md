@@ -6,3 +6,4 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 
 date: 2024-07-29
 venue: 'Agricultural and Applied Economics Association 2024'
+---
