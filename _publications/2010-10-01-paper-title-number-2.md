@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+date: 2022-10-01
 venue: 'California Department of Food and Agriculture'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.cdpr.ca.gov/docs/emon/grndwtr/imidacloprid/pcpa_imidacloprid_cdfa_final_report.pdf'
