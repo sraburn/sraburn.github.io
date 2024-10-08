@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Agricultural & Resource Economics, University of California - Davis, 2025 (expected)
-* Job Market Paper: “Optimal Production Standards for Organic Strawberries and the Commercial Availability Legal Loophole”
+* Ph.D. in Agricultural & Resource Economics, University of California - Davis, 2025 (expected)
+  Job Market Paper: “Optimal Production Standards for Organic Strawberries and the Commercial Availability Legal Loophole”
 * M.S. in Economics, University of Alabama, 2020
 * B.S. in International Economics, University of Alabama, 2018
 
