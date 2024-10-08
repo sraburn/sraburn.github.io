@@ -52,10 +52,4 @@ Skills
 ======
 * Maple, Matlab, Microsoft Office, Python, R, Stata, Tableau
 * English (Native), Spanish (Fluent), German (Conversational)
-
-Conferences
-======
-* Agricultural & Applied Economics Association Annual Meeting 2024. Presenter.
-* UC Davis College of Agricultural and Environmental Science Symposium 2024. Presenter.
-* International Fresh Produce Association Conference 2024. Group Leader.
-* Organic Growers Summit 2023. Attendee.
+* 
