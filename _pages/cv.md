@@ -28,53 +28,34 @@ UC Davis, under Professor Rachael Goodhue Davis, CA
 UC Davis Managerial Economics Department Davis, CA
 • Led discussion sections and graded assignments for Principles of Finance and Managerial Marketing.
 
-* Graduate Teaching Assistant Fall 2018—Spring 2020
+* Graduate Teaching Assistant (Fall 2018—Spring 2020)
 UA Management Department Tuscaloosa, AL
 • Created course programs for and taught two Business Management courses, averaging 46 students per semester.
 
-* Graduate Agricultural Marketing Intern Summer 2019
+* Graduate Agricultural Marketing Intern (Summer 2019)
 BNSF Railway Fort Worth, TX
 • Analyzed potential growth ports and created data visualizations used for business expansion ventures.
 
-* Data Analytics Researcher Fall 2018—Spring 2019
+* Data Analytics Researcher (Fall 2018—Spring 2019)
 Marilyn Hewson Data Analytics Lab Tuscaloosa, AL
 • Wrote economic analyses for the City of Tuscaloosa, including a cost-benefit analysis of building a convention center.
 
-* Lead Peer Advisor Fall 2016—Spring 2018
+* Lead Peer Advisor (Fall 2016—Spring 2018)
 UA Career Center Tuscaloosa, AL
 • Managed 5 students, presented informational sessions to student groups, and edited student CVs.
 
-* Latin American Sales and Marketing Intern Summer 2017
+* Latin American Sales and Marketing Intern (Summer 2017)
 Bell Helicopter Hurst, TX
 • Constructed reports identifying Latin American industries that exhibited significant growth.
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Maple, Matlab, Microsoft Office, Python, R, Stata, Tableau
+* English (Native), Spanish (Fluent), German (Conversational)
 
-Publications
+Conferences
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Agricultural & Applied Economics Association Annual Meeting 2024. Presenter.
+* UC Davis College of Agricultural and Environmental Science Symposium 2024. Presenter.
+* International Fresh Produce Association Conference 2024. Group Leader.
+* Organic Growers Summit 2023. Attendee.
