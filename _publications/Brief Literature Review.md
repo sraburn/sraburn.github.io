@@ -3,7 +3,7 @@ title: "Brief Literature Review: Selected Topics Regarding Sustainable Agricultu
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2022-03-01
 venue: 'California Department of Food and Agriculture'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf](https://www.cdfa.ca.gov/oefi/opca/docs/sustainable_pest_management_literature_review.pdf'
