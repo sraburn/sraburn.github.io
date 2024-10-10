@@ -2,8 +2,8 @@
 title: "An Economic and Pest Management Evaluation of the Insecticide Imidacloprid in California Agriculture"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: /publication/pest_management_evaluation
+excerpt: ''
 date: 2022-10-01
 venue: 'California Department of Food and Agriculture'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
