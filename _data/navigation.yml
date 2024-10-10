@@ -5,11 +5,14 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Job Market Paper"
+    url: /jmp/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Presentations"
+    url: /presentations/    
 
   - title: "Teaching"
     url: /teaching/    
