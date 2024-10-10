@@ -51,5 +51,4 @@ Bell Helicopter Hurst, TX
 Skills
 ======
 * Maple, Matlab, Microsoft Office, Python, R, Stata, Tableau
-* English (Native), Spanish (Fluent), German (Conversational)
-* 
+* English (Native), Spanish (Fluent), German (Conversational) 
