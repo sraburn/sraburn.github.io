@@ -1,12 +1,11 @@
 ---
 title: "An Economic and Pest Management Evaluation of the Insecticide Imidacloprid in California Agriculture"
 collection: publications
-category: manuscripts
+category: ''
 permalink: /publication/pest_management_evaluation
 excerpt: ''
 date: 2022-10-01
 venue: 'California Department of Food and Agriculture'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.cdpr.ca.gov/docs/emon/grndwtr/imidacloprid/pcpa_imidacloprid_cdfa_final_report.pdf'
 citation: 'Goodhue, R., Gress, B., Mace, K., Raburn, S., Spalding, A., Zheng, Y. (2022). &quot;An Economic and Pest Management Evaluation of the Insecticide Imidacloprid in California Agriculture.&quot; <i>California Department of Food and Agriculture</i>.'
 ---
