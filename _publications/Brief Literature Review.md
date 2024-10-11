@@ -2,7 +2,7 @@
 title: "Brief Literature Review: Selected Topics Regarding Sustainable Agriculture and Economic Incentives"
 collection: publications
 category: manuscripts
-permalink: /publication/sustainable-agriculture-and-economic-incentives
+permalink: /publication/sustainable_agriculture_and_economic_incentives
 excerpt: ''
 date: 2022-03-01
 venue: 'California Department of Food and Agriculture'
