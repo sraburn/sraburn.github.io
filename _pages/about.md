@@ -12,4 +12,6 @@ For my job market paper, I study the optimality of production standards for orga
 
 In addition to my own research, I also collaborate with the California Department of Food and Agriculture (CDFA) and the Department of Pesticide Regulation (DPR) to analyze the economic impact of pesticide policies. Through these interdisciplinary collaborations, I have co-published two papers, with additional works in progress.
 
+![alt text](https://github.com/sraburn/images/blob/BNSF_Heatmap.jpg?raw=true)
+
 -----
