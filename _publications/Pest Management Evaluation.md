@@ -1,7 +1,7 @@
 ---
 title: "An Economic and Pest Management Evaluation of the Insecticide Imidacloprid in California Agriculture"
 collection: publications
-category: ''
+category: 'manuscripts'
 permalink: /publication/pest_management_evaluation
 excerpt: ''
 date: 2022-10-01
