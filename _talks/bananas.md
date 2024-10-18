@@ -2,7 +2,7 @@
 title: "Split Over Bananas – How China and India are Meeting Demand Differently"
 collection: talks
 type: "Web Article"
-permalink: /talks/bananas
+permalink: /additional/bananas
 venue: "UC Davis Agricultural and Resource Economics"
 date: 2021-11-19
 location: "Davis, CA"
