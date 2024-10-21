@@ -14,7 +14,7 @@ For my job market paper, I study the optimality of production standards for orga
 
 I previously worked at BNSF and the Marilyn Hewson Data Analytics Lab where I became proficient in software including Python, R, STATA, and Tableau. In my free time I enjoy doing cartography, learning Mandarin, and playing Catan. 
 
-Sample Visulatizations: 
+Sample Visualizations: 
 ![Map](https://sraburn.github.io/_pages/Images/BNSF_Heatmap.png?raw=true)
 
 -----
